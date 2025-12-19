@@ -6,7 +6,7 @@ This project enables real-time hand detection and gesture-based interaction usin
 ---
 
 ## 🚀 Live Demo
-🔗 https://sutharprin098.github.io/ai-hand-gesture-dashboard/
+🔗 https://sutharprin098.github.io/ai-hand-gesture-dashboar
 
 (Allow camera permission to start)
 
